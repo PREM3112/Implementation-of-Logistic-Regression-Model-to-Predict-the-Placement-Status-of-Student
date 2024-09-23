@@ -21,13 +21,13 @@ STEP 5: Predict the Placement Status by Using the Logistic Regression Model
 STEP 6: Compare the Graphs and Evaluate the Model's Performance
 
 ## Program:
-
+/*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
 Developed by: PREM.R
 
 RegisterNumber: 212223240124
-/*
+*/
 ```
 import pandas as pd
 data = pd.read_csv("C:/Users/admin/OneDrive/Desktop/Placement_Data.csv")
